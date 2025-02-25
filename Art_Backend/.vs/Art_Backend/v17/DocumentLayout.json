@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\monto\\Desktop\\artis-v2.0.0\\Art_Backend\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\monto\\Desktop\\artis-v2.0.0-submitted\\Art_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC21977-03B9-4708-B1B6-B6CC0B1F27DF}|Art_Backend\\Art_Backend.csproj|c:\\users\\monto\\desktop\\artis-v2.0.0-submitted\\art_backend\\art_backend\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC21977-03B9-4708-B1B6-B6CC0B1F27DF}|Art_Backend\\Art_Backend.csproj|solutionrelative:art_backend\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\monto\\Desktop\\artis-v2.0.0-submitted\\Art_Backend\\Art_Backend\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "Art_Backend\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\monto\\Desktop\\artis-v2.0.0-submitted\\Art_Backend\\Art_Backend\\Service1.svc.cs",
+              "RelativeToolTip": "Art_Backend\\Service1.svc.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:55:44.925Z",
+              "EditorCaption": ""
             }
           ]
         }
