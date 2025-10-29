@@ -33,3 +33,10 @@ C:\Users\monto\Desktop\artis-v2.0.0-submitted\Art_Backend\Art_Backend\obj\Debug\
 C:\Users\monto\Desktop\artis-v2.0.0-submitted\Art_Backend\Art_Backend\obj\Debug\Art_Backend.csproj.CoreCompileInputs.cache
 C:\Users\monto\Desktop\artis-v2.0.0-submitted\Art_Backend\Art_Backend\obj\Debug\Art_Backend.dll
 C:\Users\monto\Desktop\artis-v2.0.0-submitted\Art_Backend\Art_Backend\obj\Debug\Art_Backend.pdb
+C:\Users\monto\Documents\Github\artis-v2.0.0\Art_Backend\Art_Backend\bin\Art_Backend.dll.config
+C:\Users\monto\Documents\Github\artis-v2.0.0\Art_Backend\Art_Backend\bin\Art_Backend.dll
+C:\Users\monto\Documents\Github\artis-v2.0.0\Art_Backend\Art_Backend\bin\Art_Backend.pdb
+C:\Users\monto\Documents\Github\artis-v2.0.0\Art_Backend\Art_Backend\obj\Debug\Art_Backend.csproj.AssemblyReference.cache
+C:\Users\monto\Documents\Github\artis-v2.0.0\Art_Backend\Art_Backend\obj\Debug\Art_Backend.csproj.CoreCompileInputs.cache
+C:\Users\monto\Documents\Github\artis-v2.0.0\Art_Backend\Art_Backend\obj\Debug\Art_Backend.dll
+C:\Users\monto\Documents\Github\artis-v2.0.0\Art_Backend\Art_Backend\obj\Debug\Art_Backend.pdb
